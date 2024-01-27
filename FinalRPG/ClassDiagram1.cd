@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalRPG.Content.States.State" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgABAABBAABAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Content\States\State.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Game1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Content.States.MenuState" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAgEIgAAAABBAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Content\States\MenuState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Game1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Content.States.HelpState" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAIgAAAABBAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Content\States\HelpState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Game1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Content.States.GameState" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAaAkEAQAQIAIgAABADAACAEAAAIAACDIIAAEAACAZM=</HashCode>
+      <FileName>Content\States\GameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalRPG.Content.States.AboutState" Collapsed="true">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAIgAAAABBAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Content\States\AboutState.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Game1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.TilemapManager" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAAAAAgAAAAAAgAAAAAAgAAAAIAAAAAAAIAE=</HashCode>
+      <FileName>TilemapManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameState" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Player" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAEAAIAIAAgAAAAAAAAAgAQAAAAIAAAIAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameState" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Hitbox" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgASAAAAAAgAAAAAAAAAAAAAAgAAAAAAQAAAAIAA=</HashCode>
+      <FileName>Hitbox.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameState" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Game1" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IASCEAAQAQAABwAABACAACAEAAAIAAADIIAAEAACABU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalRPG.Enemy" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAUAAAAAAEAAAABAAAAAAAAAAAAQAACAAAIAAAIAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameState" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Component" Collapsed="true">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Game1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Animation" Collapsed="true">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAQAAAAAAAQAAAAACAAQACAQAAIAA=</HashCode>
+      <FileName>Animation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameState" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalRPG.Content.Controls.Button" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAwAAAAAAQAAAgAgAAABAAAAAAqgACAAAAAACAAAAgA=</HashCode>
+      <FileName>Content\Controls\Button.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Game1" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

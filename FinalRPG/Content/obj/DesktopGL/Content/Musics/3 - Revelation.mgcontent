@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/3 - Revelation.ogg</SourceFile>
+  <SourceTime>2019-09-21T15:04:12-04:00</SourceTime>
+  <DestFile>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/bin/DesktopGL/Content/Musics/3 - Revelation.xnb</DestFile>
+  <DestTime>2024-01-24T23:00:39.4885259-05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/bin/DesktopGL/Content/Musics/3 - Revelation.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

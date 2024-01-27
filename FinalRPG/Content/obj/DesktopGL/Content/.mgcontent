@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Cat/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Cat/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Dog/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Dog/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Dog2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Dog2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Frog/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Frog/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Racoon/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Animals/Racoon/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/Hit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/HitPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop/WalkPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/Hit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/HitPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/DemonCyclop2/WalkPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFlam/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFlam/Hit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFlam/HitPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFlam/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFlam/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/Charge.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/ChargeAttackPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/Hit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/HitPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/Idle40x40.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog/JumpPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/Charge.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/ChargeAttackPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/Hit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/HitPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantFrog2/JumpPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/charge.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/ChargeAttackPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/JumpPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoon/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/Charge.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/ChargeAttackPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/JumpPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantRacoonGold/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantSpirit/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantSpirit/Hit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantSpirit/HitPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantSpirit/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Boss/GiantSpirit/IdlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/AllPreview.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/AllPreview2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/BlueSamurai/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Boy/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Cavegirl2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Caveman2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Child/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Child/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/DarkNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggBoy/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EggGirl/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Eskimo/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/EskimoNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GoldKnight/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GrayNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/Faceset1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Greenman/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/GreenNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Inspector/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Knight/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Lion/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskedNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/Dead14.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/MaskFrog/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Master/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Monk2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Noble/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldMan3/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldWoman/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/OldWoman/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Princess/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedNinja2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/redsamurai.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/RedSamurai/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Samurai/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Shadow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Skeleton/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager3/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Villager4/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Attack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Dead.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Idle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Item.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Jump.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Special1.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Special2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SeparateAnim/Walk.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Characters/Woman/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Axolot.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Bamboo.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Beast.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/butterfly.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Cyclope/Cyclopes.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Cyclope/Faceset22.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Cyclope2/Faceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Cyclope2/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Dragon.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Eye.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Fish.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Flam/Faceset19.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Flam/Flam.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Flam2/Faceset14.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Flam2/Flam2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/GoldRacoon/Faceset23.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/GoldRacoon/Tanuki2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Larva.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Lizard.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Mole.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Mollusc.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Mouse.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/mushroom.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Octopus/Faceset21.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Octopus/Octopus.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Octopus2/Faceset16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Octopus2/Octopus2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Owl.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Racoon/Faceset18.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Racoon/Tanuki.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Reptile.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Skull.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Slime.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Slime2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Snake.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Snake2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Spirit/Faceset20.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Spirit/Spirit.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Spirit2/Faceset15.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Actor/Monsters/Spirit2/Spirit2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Flag/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Flag/SpriteSheet16x16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Flower/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Flower/SpriteSheet16x16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Plant/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Plant/SpriteSheet16x16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Waterfall/BottomPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Waterfall/BottomSheet16x16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Waterfall/MiddlePreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Waterfall/MiddleSheet16x16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Waterfall/TopPreview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Animated/Waterfall/TopSheet16x16.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/Interior/Elements.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/Interior/TilesetInterior.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/Interior/TilesetInteriorFloor.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/Interior/TilesetWallSimple.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetDungeon.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetElement.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetFloor.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetFloorB.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetFloorDetail.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetHole.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetHouse.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetLogic.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetNature.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetRelief.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetReliefDetail.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Backgrounds/Tilesets/TilesetWater.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Fonts/Font.spritefont</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/AllPreview.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Flam/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Flam/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Ice/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Ice/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Ice/SpriteSheetB.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Ice/SpriteSheetFlake.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Plant/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Plant/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Plant/SpriteSheetB.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Rock/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Rock/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Rock/SpriteSheetB.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Thunder/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Elemental/Thunder/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Aura/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Aura/SpriteSheetPurple.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Aura/SpriteSheetWhite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/PreviewSpark.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/PreviewSpark2.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/SpriteSheetOrange.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/SpriteSheetSpark.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/SpriteSheetSpark2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Circle/SpriteSheetWhite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Shield/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Shield/SpriteSheetBlue.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Shield/SpriteSheetYellow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Spark/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Spark/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Spirit/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Spirit/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Spirit/SpriteSheetBlue.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Magic/Spirit/SpriteSheetDouble.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/AllPreview.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Bamboo.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Clouds.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Fire.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Grass.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Leaf.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/LeafPink.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Rain.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/RainOnFloor.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Rock.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/RockGray.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Snow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Spark.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Vase.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Particle/Wood.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/AllPreview.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/Arrow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/BigEnergyBall.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/BigKunai.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/BigShuriken.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/CanonBall.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/EnergyBall.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/Fireball.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/IceSpike.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/Kunai.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/PlantSpike.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/Shuriken.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/ShurikenMagic.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Projectile/SpriteSheetRock.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/CircularSlash/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/CircularSlash/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/Claw/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/Claw/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/ClawDouble/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/ClawDouble/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/Cut/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/Cut/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/Slash/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/Slash/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/SlashCurved/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/SlashCurved/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/SlashDouble/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/SlashDouble/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/SlashDoubleCurved/Sprite.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/SlashFx/SlashDoubleCurved/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Smoke/Smoke/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Smoke/Smoke/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Smoke/SmokeCircular/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/FX/Smoke/SmokeCircular/SpriteSheet.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Arrow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/ChoiceBox.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/DialogBox.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/DialogBoxFaceset.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/DialogInfo.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/DialogueBoxSimple.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/FacesetBox.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/NoButton.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Dialog/YesButton.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Font/font24x30.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Font/font8x8.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Heart.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Kunai.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/LifeBarMiniProgress.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/LifeBarMiniUnder.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/NinePathRect/DialogueBubble.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/NinePathRect/FacesetBox.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/HUD/Shuriken.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/AllPreview.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Beaf.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Calamari.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Fish.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/FortuneCookie.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Honey.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Noodle.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Octopus.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Onigiri.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Shrimp.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Sushi.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Sushi2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/TeaLeaf.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Food/Yakitori.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Potion/EmptyPot.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Potion/Hear.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Potion/LifePot.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Potion/Medipack.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Potion/MilkPot.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Potion/WaterPot.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Scroll/ScrollEmpty.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Scroll/ScrollFire.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Scroll/ScrollIce.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Scroll/ScrollPlant.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Scroll/ScrollRock.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Scroll/ScrollThunder.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/BigTreasureChest.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/Coin2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/Coin2Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/GoldCoin.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/GoldCup.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/GoldKey.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/LittleTreasureChest.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/SilverCoin.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/SilverCup.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Treasure/SilverKey.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/WeaponPreview2.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Axe/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Axe/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/BigSword/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/BigSword/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Bone/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Bone/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Book/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Book/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Bow/Arrow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Bow/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Bow2/Arrow.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Bow2/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Club/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Club/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Fork/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Fork/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Hammer/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Hammer/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Katana/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Katana/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Lance/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Lance/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Lance2/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Lance2/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/MagicWand/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/MagicWand/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Ninjaku/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Ninjaku/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Preview.gif</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Rapier/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Rapier/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Sai/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Sai/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Stick/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Stick/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Sword/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Sword/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Sword2/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Sword2/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Whip/Sprite.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Items/Weapons/Whip/SpriteInHand.png</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/1 - Adventure Begin.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/10 - Dark Castle.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/11 - Clearing.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/12 - Temple.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/13 - Mystical.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/14 - Curse.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/15 - Credit Theme.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/16 - Melancholia.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/17 - Fight.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/18 - Aquatic.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/19 - Ascension.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/2 - The Cave.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/20 - Good Time.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/21 - Dungeon.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/22 - Dream.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/23 - Road.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/24 - Final Area.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/25 - End Theme 2.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/3 - Revelation.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/4 - Village.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/5 - Peaceful.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/6 - Story (Short).ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/6 - Story.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/7 - Sad Theme.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/8 - End Theme.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/9 - Quiet.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Musics/Final Fantasy VI - 48 - Mog.ogg</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Alert.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Alert2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Bonus.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Coin.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Explosion.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Explosion2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Explosion3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Explosion4.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Fire.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Fire2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Fire3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Fireball.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Fireball2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Fx.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/GameOver.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/GameOver2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Gold1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Gold2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Gold3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit4.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit5.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit6.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Hit7.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Jump.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Kill.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Magic1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Magic2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Magic3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/MiniImpact.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/PowerUp1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/PowerUp2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Secret1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Spirit.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Strange.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Success1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Success2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Success3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Sword.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Sword2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Voice1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Voice2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Voice3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Game/Voice4.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Accept.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Accept2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Cancel.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu1.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu10.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu11.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu12.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu2.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu3.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu4.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu5.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu6.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu7.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu8.wav</File>
+    <File>F:/Conestoga/Term 3/PROG2370/KPFinalProject2/KPFinalProject/FinalRPG/FinalRPG/Content/Sounds/Menu/Menu9.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
